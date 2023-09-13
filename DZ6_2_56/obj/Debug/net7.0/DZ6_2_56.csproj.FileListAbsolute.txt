@@ -1,0 +1,15 @@
+C:\homeworke 6_2\DZ6_2_56\bin\Debug\net7.0\DZ6_2_56.exe
+C:\homeworke 6_2\DZ6_2_56\bin\Debug\net7.0\DZ6_2_56.deps.json
+C:\homeworke 6_2\DZ6_2_56\bin\Debug\net7.0\DZ6_2_56.runtimeconfig.json
+C:\homeworke 6_2\DZ6_2_56\bin\Debug\net7.0\DZ6_2_56.dll
+C:\homeworke 6_2\DZ6_2_56\bin\Debug\net7.0\DZ6_2_56.pdb
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.csproj.AssemblyReference.cache
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.AssemblyInfoInputs.cache
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.AssemblyInfo.cs
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.csproj.CoreCompileInputs.cache
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.dll
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\refint\DZ6_2_56.dll
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.pdb
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\DZ6_2_56.genruntimeconfig.cache
+C:\homeworke 6_2\DZ6_2_56\obj\Debug\net7.0\ref\DZ6_2_56.dll
